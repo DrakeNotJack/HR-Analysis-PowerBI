@@ -3,6 +3,7 @@
 dashboard address:
 https://app.powerbi.com/groups/me/reports/04be1b6c-4fb9-4a0c-9f2b-b739104b405e/ReportSection?experience=power-bi&bookmarkGuid=Bookmark2991a1cca4e96b321ff4
 
+
 Insights:
 1. The employee attrition rate is 16%, which is higher than the industry average of 12%. The main reasons for attrition are low salaries, high workload, and lack of career growth opportunities.
 2. The employee diversity and inclusion analysis reveals that there is a significant gap in gender representation, especially in HR, where only 33% are female. The education field is also dominated by Life Sciences & Medical, which accounts for more than 50% of the employees.
